@@ -1,2 +1,24 @@
-# Project exclude paths
-/out/
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build directories (padrão para projetos Java sem Maven/Gradle)
+bin/
+target/
+build/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do editor
+*.log
+*.tmp
+*.swp
