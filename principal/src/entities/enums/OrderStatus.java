@@ -1,4 +1,4 @@
-package entidade.enums;
+package entities.enums;
 
 public enum OrderStatus {
 
